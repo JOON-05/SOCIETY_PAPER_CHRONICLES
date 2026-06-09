@@ -30,7 +30,7 @@ story_script= [
     {"speaker": "Lady Whistledown", "text": "\"Dearest gentle reader, the town is abuzz with the latest scandal...\""},
     {"speaker": "Lady Whistledown", "text": "\"It appears a certain Duke was spotted walking alone in the gardens.\""},
     {"speaker": "Lord Anthony", "text": "\"A proper gentleman never whispers secrets in the ballroom.\""},
-    {"speaker": "Lady whitledown", "text": "\"But of course, this author always finds a way to hear them.\""}
+    {"speaker": "Lady Whistledown", "text": "\"But of course, this author always finds a way to hear them.\""}
     ]
 current_story_index=0
 

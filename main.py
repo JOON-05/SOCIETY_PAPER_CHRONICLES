@@ -4,7 +4,8 @@ import sys
 COLOR_CREAM = (247, 244, 234)       #parchment background
 COLOR_GOLD = (212, 175, 55)         #accents, borders, and wax seals
 COLOR_CHARCOAL = (44, 44, 44)       #high-readability serif text color
-COLOR_DUCK_EGG = (202, 218, 224)    #secondary button / highlight color
+COLOR_DUCK_EGG = (202, 218, 224)    #secondary button/ highlight color
+COLOUR_WAX_RED = (141, 30,31)       #crimson-brick red for the wax seals
 
 # INITIALIZATION & DISPLAY SETUP
 pygame.init()
